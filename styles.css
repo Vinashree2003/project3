@@ -5,7 +5,9 @@
   margin: 0 auto;
   padding: 20px;
   font-family: segoe UI;
-  background:none;
+  background-image:url(" ");
+  background-image-repeat:no-repeat; 
+  background-image-size:cover;
   color:#5ac7a2;
 }
 .container > p{
